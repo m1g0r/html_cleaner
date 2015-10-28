@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from lxml import etree
 from lxml import html as lxml_html
 from lxml.html import clean, fromstring, tostring, _transform_result, copy
